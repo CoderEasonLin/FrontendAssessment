@@ -10,12 +10,8 @@
 ## 技術要求
 
 **必須使用**:
-- Vue 3 (CDN)
-- CSS（原生 CSS 或 Tailwind CSS）
-
-**可選使用**:
-- Tailwind CSS (CDN 或完整設定皆可)
-
+- Vue 3
+- CSS（Tailwind CSS(優先) 或 原生 CSS）
 
 **重要說明**:
 - Desktop 版本仍要求 **pixel perfect**（誤差 < 5px）
